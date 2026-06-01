@@ -1,51 +1,29 @@
-# Hi, I'm Umar 👋
+# Muhammed Umar Shaikh
 
-**Full-Stack Engineer · SaaS Builder · MERN + Spring Boot**  
-I design, build, and ship production SaaS end-to-end — from idea to deployed app with real clients.  
-Based in Pune, India. Open to roles starting 2026.
+Full-Stack Engineer · SaaS Builder · MERN + Spring Boot + Java
+I design, build, and ship production SaaS end-to-end —
+from idea to deployed app with real, paying clients.
 
-🌐 [muhammedumar.in](https://muhammedumar.in) · 💼 [LinkedIn](https://www.linkedin.com/in/muhammed-umar-shaikh-/) · 📬 [muhammedumarshaikh7@gmail.com](mailto:muhammedumarshaikh7@gmail.com)
-
+muhammedumar.in  ·  linkedin  ·  muhammedumarshaikh7@gmail.com  ·  Pune, India
 ---
 
-### ⚡ What I do
-
-- 🚀 Ship full-stack SaaS products — auth, payments, DB, deployment, the whole thing
-- ☕ Java + Spring Boot for production backends (see Motoriq)
-- 🤖 AI-powered products — voice agents, LLM integrations, multi-agent systems
-- ⚛️ MERN stack for rapid full-stack development
-
----
-
-### 🛠 Stack
-
-```
 Languages   JavaScript · TypeScript · Java · SQL
-Frontend    React · Next.js · Tailwind · Three.js · Framer Motion
+Frontend    React · Next.js · Tailwind CSS · Three.js · Framer Motion
 Backend     Node.js · Express · Spring Boot
 Database    PostgreSQL · MongoDB · Redis
-DevOps      Docker · Vercel · Git · CI/CD
-```
-
+DevOps      Docker · Vercel · Git · GitHub Actions
 ---
 
-### 📌 Projects
+**[Motoriq.in](https://muhammedumar.in/works?project=6)** — Spring Boot · React · PostgreSQL · live with paying clients
+  Full SaaS platform for the automotive industry. Deployed, production-grade, real clients.
 
-⭐ **[Motoriq.in](https://muhammedumar.in/works?project=6)** — Spring Boot · React · PostgreSQL  
-&nbsp;&nbsp;&nbsp;Full SaaS platform for the automotive industry. Live in production with paying clients.
+[Pravak AI](https://muhammedumar.in/works?project=7) — Voice AI · React · Node.js
+  AI voice-agent that understands and responds in real-time. Built for enterprise use cases.
 
-**[Pravak AI](https://muhammedumar.in/works?project=7)** — Voice AI · React · Node.js  
-&nbsp;&nbsp;&nbsp;AI voice-agent that understands and responds in real-time. Built for enterprise use cases.
+[GadgetBazaar](https://muhammedumar.in/works?project=8) — Next.js · PostgreSQL
+  Full-stack e-commerce platform with product catalog, cart, auth, and order management.
 
-**[GadgetBazaar](https://muhammedumar.in/works?project=8)** — Next.js · PostgreSQL  
-&nbsp;&nbsp;&nbsp;Full-stack e-commerce platform with product catalog, cart, auth, and order management.
-
-**[MedBot](https://muhammedumar.in/works?project=1)** — MERN · Llama 4 · Whisper  
-&nbsp;&nbsp;&nbsp;Healthcare AI assistant with voice input, multilingual LLM chat, and clinical record management.
-
----
-
-### 📊 GitHub Stats
-
+[MedBot](https://muhammedumar.in/works?project=1) — MERN · Llama 4 · Whisper · ElevenLabs
+  Healthcare AI assistant with voice input, multilingual LLM chat, and clinical record management.
 ![Stats](https://github-readme-stats.vercel.app/api?username=umar7shaikh&show_icons=true&theme=tokyonight&hide_border=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umar7shaikh&layout=compact&theme=tokyonight&hide_border=true)
